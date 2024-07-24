@@ -1,0 +1,1 @@
+Promises in ES6 (ECMAScript 2015) are a powerful feature that allows developers to handle asynchronous operations more effectively. A promise is an object representing the eventual completion (or failure) of an asynchronous operation and its resulting value.
